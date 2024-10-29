@@ -1,19 +1,13 @@
-# roll_dice
+# A Dice App 
 
-A new Flutter project.
+This is my dive into Stateful Widgets using Flutter!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App video](https://github.com/user-attachments/assets/7adbd28c-e54b-4535-a31e-c1e772eed489)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Dice-app
-# Dice-app
-# Dice-app
+
+
+
